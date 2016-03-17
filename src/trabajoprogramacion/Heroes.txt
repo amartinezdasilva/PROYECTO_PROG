@@ -1,0 +1,7 @@
+HEROES QUE LUCHARAN POR TI:
+Ranger: Los ranger son expertos arqueros, conocedores de tecnicas de supervivencia y maestros en el uso de venenos.
+ Su poder se basa en el ataque fisico de sus flechas sumando la mortalidad mágica de sus venenos.
+Caballero: Los caballeros son nobles guerreros que anteponen el honor y la fortaleza frente a todo.
+Su poder reside en sus tecnicas de combate plenamentes fisicas.
+Magos: Los magos son hechiceros especializados en los elementos naturales.
+Sus poderes residen practicamente en la magia, pero cuentan con ataques fisicos a su vez.

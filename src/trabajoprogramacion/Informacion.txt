@@ -1,0 +1,14 @@
+Informacion del programa:
+Las clases que podremos escoger serán las clases heroes.
+Se compone de 3 tipos:
+Caballero: Clase totalmente fisica
+Mago:Clase mágica con un refuerzo fisico en el ataque basico
+Ranger:Clase mixta,consta de daño medio mágico y fisico.
+Los rivales se componen de similar forma:
+Ajax:Plenamente fisico
+ArchimagoRayx: Mago con refuerzo fisico en el ataque basico
+Cancerbero: Mixto
+Idea principal del programa
+Juego basado en combate por turnos
+Tu eliges tu ataque entre diversas opciones y el programa genera una opcion aleatoria rival
+El que se quede sin vida pierde

@@ -1,0 +1,8 @@
+RIVALES DE LA ARENA :
+Una vez entres en la arena podrás encontrarte diversos rivales
+Entre ellos están :
+Ajax : Un temeroso guerrero que empuña un enorme hacha de combate. Su poder reside en su fuerza bruta, no posee ningún poder a mayores.
+Cancerbero : El legendario perro de tres cabezas es un temible rival a la hora de verse encerrado en la arena con el. 
+Cancerbero mezcla su poder fisico con poder magico.
+Archimago Rayx: El archimago Rayx prefiere la sangre y la arena antes que los estudios sobre la magia. 
+Su poder reside en su magia, pero no hay que menospreciar su poder de encantar ataques fisicos.
